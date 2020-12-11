@@ -1,0 +1,20 @@
+baseURL = "https://jyotisham.github.io/"
+languageCode = "en-us"
+title = "संस्कृत-साङ्गणकाः Sanskrit Programmers"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+disablePathToLower = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "CSV"]
+  section = ["HTML", "RSS", "JSON"]
+
+[params]
+  githubEditMePathBase = "https://github.com/jyotisham/jyotisham.github.io/edit/hugo-source/content/"
+  contactLink = "https://github.com/jyotisham/jyotisham.github.io/issues/new"
+  env = "production"
+  disqusShortcode = "jyotisham-site"
+
+[markup.goldmark.renderer]
+  unsafe= true
