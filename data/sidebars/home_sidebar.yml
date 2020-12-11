@@ -4,5 +4,7 @@ title: Parts
 contents:
   - title: Home
     url: recdir://
+  - title: Jyotisha Python
+    url: jyotisha/
   - title: Sanskrit Coders site
     url: https://jyotisham.github.io/
