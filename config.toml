@@ -1,6 +1,6 @@
 baseURL = "https://jyotisham.github.io/"
 languageCode = "en-us"
-title = "संस्कृत-साङ्गणकाः Sanskrit Programmers"
+title = "ज्योतिष-साङ्गणकाः Jyotisha Programmers"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
