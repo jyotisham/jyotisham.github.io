@@ -8,3 +8,4 @@ title: "ज्योतिष-साङ्गणकाः Jyotisha coders"
 हरिः, ॐ! स्वागतम्!
 We are open source Jyotisha programmers.
 
+- Related theory - [VV](http://vishvasa.github.io/jyotiSham)
