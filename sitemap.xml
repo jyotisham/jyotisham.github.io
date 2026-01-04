@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jyotisham.github.io/astronomy/</loc>
-  </url>
-  
-  <url>
     <loc>https://jyotisham.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://jyotisham.github.io/search/</loc>
     <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://jyotisham.github.io/software-survey/</loc>
   </url>
   
   <url>
