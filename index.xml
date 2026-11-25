@@ -1,36 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ज्योतिष-साङ्गणकाः Jyotisha coders on ज्योतिष-साङ्गणकाः Jyotisha Programmers</title>
-    <link>https://jyotisham.github.io/</link>
-    <description>Recent content in ज्योतिष-साङ्गणकाः Jyotisha coders on ज्योतिष-साङ्गणकाः Jyotisha Programmers</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jyotisham.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Search Results</title>
-      <link>https://jyotisham.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jyotisham.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
-    
-    <item>
-      <title>Software Survey</title>
-      <link>https://jyotisham.github.io/software-survey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jyotisham.github.io/software-survey/</guid>
-      <description>Visualization  Stellarium is opensource (launchpad, github). It comes with a developing &amp;ldquo;Indian vedic skyculture&amp;rdquo;, and allows translations with voting (rosetta).  Ephemeris data  DExxx ephemerides from NASA&amp;rsquo;s JPL  Swiss ephemeris  Swiss Ephemeris is based upon the planetary and lunar ephemeris DE431 developed by NASA&amp;rsquo;s Jet Propulsion Laboratory, compressed. Mailing list - swisseph/ Test page - here. Python wrapper - pyswisseph. git here.  Vedic astrology Python  jyotisha - kArttika.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>ज्योतिष-साङ्गणकाः Jyotisha coders on ज्योतिष-साङ्गणकाः Jyotisha Programmers</title>
+		<link>https://jyotisham.github.io/</link>
+		<description>Recent content in ज्योतिष-साङ्गणकाः Jyotisha coders on ज्योतिष-साङ्गणकाः Jyotisha Programmers</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://jyotisham.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Search Results</title>
+				<link>https://jyotisham.github.io/search/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://jyotisham.github.io/search/</guid>
+				<description>&lt;p&gt;This file exists solely to respond to /search URL with the related &lt;code&gt;search&lt;/code&gt; layout template.&lt;/p&gt;&#xA;&lt;p&gt;No content shown here is rendered, all content is based in the template layouts/page/search.html&lt;/p&gt;&#xA;&lt;p&gt;Setting a very low sitemap priority will tell search engines this is not important content.&lt;/p&gt;&#xA;&lt;p&gt;This implementation uses Fusejs, jquery and mark.js&lt;/p&gt;&#xA;&lt;h2 id=&#34;initial-setup&#34;&gt;Initial setup&lt;/h2&gt;&#xA;&lt;p&gt;Search  depends on additional output content type of JSON in config.toml&#xA;```&#xA;[outputs]&#xA;home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]&#xA;```&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Software Survey</title>
+				<link>https://jyotisham.github.io/software-survey/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://jyotisham.github.io/software-survey/</guid>
+				<description>&lt;h2 id=&#34;visualization&#34;&gt;Visualization&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stellarium is opensource (launchpad, &lt;a href=&#34;https://github.com/Stellarium/stellarium&#34;&gt;github&lt;/a&gt;). It comes with a developing &amp;ldquo;Indian vedic skyculture&amp;rdquo;, and allows translations with voting (&lt;a href=&#34;https://translations.launchpad.net/stellarium/trunk/+pots/stellarium-skycultures/sa/+translate&#34;&gt;rosetta&lt;/a&gt;).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ephemeris-data&#34;&gt;Ephemeris data&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DExxx ephemerides from &lt;a href=&#34;http://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris&#34;&gt;NASA&amp;rsquo;s JPL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;swiss-ephemeris&#34;&gt;Swiss ephemeris&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.astro.com/swisseph/swephinfo_e.htm&#34;&gt;Swiss Ephemeris&lt;/a&gt; is based upon the planetary and lunar ephemeris DE431 developed by NASA&amp;rsquo;s Jet Propulsion Laboratory, compressed.&lt;/li&gt;&#xA;&lt;li&gt;Mailing list - &lt;a href=&#34;http://groups.yahoo.com/group/swisseph/&#34;&gt;swisseph/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Test page - &lt;a href=&#34;http://www.astro.com/swisseph/swetest.htm&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Python wrapper - &lt;a href=&#34;https://pypi.python.org/pypi/pyswisseph&#34;&gt;pyswisseph&lt;/a&gt;. git &lt;a href=&#34;https://github.com/astrorigin/pyswisseph&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;vedic-astrology&#34;&gt;Vedic astrology&lt;/h2&gt;&#xA;&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/jyotisham/jyotisha&#34;&gt;jyotisha&lt;/a&gt; - kArttika.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/webresh/drik-panchanga&#34;&gt;drik-panchanga&lt;/a&gt; well-written Python-based panchangam, with a nice simple GUI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;online-services&#34;&gt;Online services&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.drikpanchang.com&#34;&gt;drikpanchang&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.prokerala.com&#34;&gt;prokerala&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vedika.io&#34;&gt;vedika rest api&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;misc&#34;&gt;Misc&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;M. YANO and M. FUSHIMI &lt;a href=&#34;http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/index.html&#34;&gt;here&lt;/a&gt; (cached &lt;a href=&#34;https://github.com/sanskrit-coders/perl-misc&#34;&gt;here&lt;/a&gt;.)&lt;/li&gt;&#xA;&lt;li&gt;jagannatha hora - Narasimha rao&lt;/li&gt;&#xA;&lt;li&gt;mudgala hora - ajit&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>
